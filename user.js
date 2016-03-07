@@ -8,7 +8,7 @@
 // @icon        https://raw.githubusercontent.com/johnbocook/HideSpiceworksAdBar/master/img/ticket.png
 // @homepageURL https://github.com/johnbocook/DarkFeedly
 // @supportURL  https://github.com/johnbocook/DarkFeedly/issues
-// @include     https://feedly.com/i/*
+// @include     *//feedly.com/i/*
 // @grant       none
 // ==/UserScript==
 
